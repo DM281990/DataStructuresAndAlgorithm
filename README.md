@@ -1,1 +1,1 @@
-Data Structures and algorithm are a complex task for interview. Here the idea is to present a pattern of limited question. All the Leet code problems are numbered in accordance with leetcode chronology
+Data Structures and algorithm are a complex task for interview. Here the idea is to present a pattern of limited question. All the Leet code problems are numbered in accordance with leetcode chronology. Its basically a pattern of few problems, which would help us in getting quickly ready for the interview.
